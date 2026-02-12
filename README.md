@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hemanth Kumar M</h1>
-<h3 align="center">Information Science Student | Java & Python Developer | ML Enthusiast</h3>
+<h3 align="center">Information Science Student | Java Developer | ML Enthusiast</h3>
 
 ---
 
@@ -14,15 +14,17 @@
 ## 🛠 Tech Stack
 **Languages**
 - Java
-- Python
+- Python Basics
 - C
 - HTML, CSS
 
 **Tools**
 - MySQL
 - Git & GitHub
+- springBoot
 
 **Domains**
+- Java Developer
 - Machine Learning
 - Data Analysis
 - Backend Developer
@@ -32,6 +34,7 @@
 ---
 
 ## 🔭 Current Focus
+- Learning Adavanced Java Concepts
 - Crop Yield & Price Prediction using Machine Learning
 - Improving Java and Data Analytics skills
 - Building practical AI-based applications
@@ -53,8 +56,9 @@ ML-based system predicting crop yield and market trends for better decision-maki
 ## 📜 Certifications
 ✔ IBM – Fundamentals of Artificial Intelligence  
 ✔ Deloitte – Data Analytics Job Simulation  
-✔ Infosys – Data Structures and Algorithms  
-✔ Infosys – Java Features  
+✔ Infosys – Data Structures and Algorithms using Java 
+✔ Infosys springboard – Java Features
+
 
 ---
 
